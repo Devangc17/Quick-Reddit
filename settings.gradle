@@ -1,0 +1,2 @@
+rootProject.name = "MemeWeShare"
+include ':app'
