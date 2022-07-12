@@ -29,7 +29,7 @@ Furthermore, we have two functional buttons i.e.
 
 - ### This button helps in sharing the meme/post across various platforms like What's App, Facebook, G-Mail and many more... 
 
-![Share button functionality](https://raw.githubusercontent.com/Devangc17/Quick-Reddit/main/images%20for%20readme/WhatsApp%20Image%202022-07 10%20at%2010.51.35%20PM%20(1).jpeg)
+![Share button functionality](https://raw.githubusercontent.com/Devangc17/Quick-Reddit/main/images%20for%20readme/WhatsApp%20Image%202022-07-10%20at%2010.51.35%20PM%20(1).jpeg)
 
 This button shares the link with a message in text format.
 ---
